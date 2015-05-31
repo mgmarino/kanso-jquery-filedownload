@@ -1,0 +1,24 @@
+kanso-jquery-file-download
+==========================
+
+jQuery file download wrapped for kan.so 
+
+This is currently version @VERSION@.  The website is:
+
+@URL@
+
+Usage
+-----
+
+General usage:
+
+```javascript
+jQuery = require("jquery");
+// following exports a plugin to jQuery 
+require("jquery-file-download");
+jQuery.fileDownload( ... );
+```
+
+More information concerning the API and examples for the plugin can be found on
+the above webpage.  
+

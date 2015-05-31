@@ -1,0 +1,20 @@
+{
+    "name": "jquery-file-download",
+    "version": "1.4.3-kanso.1",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "Michael Marino",
+            "url": "https://github.com/mgmarino"
+        }
+    ],
+    "url": "http://jqueryfiledownload.apphb.com/",
+    "modules": "jquery-file-download.js",
+    "modules_attachment": false,
+    "dependencies": {
+        "modules": null,
+        "attachments": null,
+        "jquery": ">=1.10.1-kanso"
+    },
+    "description": "jquery-file-download provides a file download plugin for jQuery"
+}
